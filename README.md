@@ -26,7 +26,7 @@ Binance Futures Leaderboard Scraper is an Apify actor which lets you extract dat
 
 ## Bugs, fixes, updates and changelog
 
-This scraper is under active development. If you have any feature requests you can create an issue from [here](https://github.com/tugkan/binance-futures-leaderboard-scraper/issues).
+This scraper is under active development. If you have any feature requests you can create an issue from [here](https://github.com/epctex/binance-futures-leaderboard-scraper/issues).
 
 ## Incoming Changes
 
