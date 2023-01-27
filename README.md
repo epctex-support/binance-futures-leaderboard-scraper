@@ -1,6 +1,6 @@
 # Binance Futures Leaderboard Scraper
 
-Binance Futures Leaderboard Scraper is an Apify actor which lets you extract data from [Binance](https://www.binance.com/en/futures-activity/leaderboard) by using any filtering and sorting options provided by Binance. You can read more on this blog post about how this actor works.
+Binance Futures Leaderboard Scraper is an Apify actor which lets you extract data from [Binance](https://www.binance.com/en/futures-activity/leaderboard) by using any filtering and sorting options provided by Binance.
 
 ## Features
 
