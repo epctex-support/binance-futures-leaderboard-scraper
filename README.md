@@ -41,8 +41,6 @@ The input of this scraper should be JSON containing the list of pages on Clutch.
 
 - `sortType`: (Optional) (String) orting filter for the leaderboard. Valid values: `ROI` \| `PNL`.
 
-- `endPage`: (Optional) (Number) Final number of page that you want to scrape. Default is `Infinite`. This is applies to all `search` request and `startUrls` individually.
-
 - `maxItems`: (Optional) (Number) You can limit scraped items. This should be useful when you search through the big lists or search results.
 
 - `proxy`: (Required) (Proxy Object) Proxy configuration.
