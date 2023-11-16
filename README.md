@@ -33,7 +33,7 @@ This scraper is under active development. If you have any feature requests you c
 
 ## Input Parameters
 
-The input of this scraper should be JSON containing the list of pages on Clutch.co that should be visited. Possible fields are:
+The input of this scraper should be JSON containing the list of pages on Binance Leaderboard that should be visited. Possible fields are:
 
 - `startUrls`: (Optional) (Array) List of Binance futures leaderboard URLs. It can be any filtered leaderboard or User detail page.
 
